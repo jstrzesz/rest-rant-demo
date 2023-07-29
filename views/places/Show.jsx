@@ -1,5 +1,5 @@
 const React = require('react');
-const Def = require('./Default');
+const Def = require('../Default');
 
 function Show({ place, id }) {
   return (
